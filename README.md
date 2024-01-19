@@ -28,8 +28,9 @@
 
 ✉️ Correo de contacto: gerardcarrizo1@gmail.com
  
-<img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
+
 <hr>
+<img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
 
 ```
 Soy-Gerardgfc@github
