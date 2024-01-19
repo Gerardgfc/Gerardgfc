@@ -16,10 +16,9 @@
 
 🤝 ¡Estoy emocionado por la oportunidad de conectar con profesionales apasionados del campo de la ciencia de datos! ¿Tienes un proyecto interesante en mente o consejos valiosos para compartir? ¡Hablemos!</i></p>
 
-✉️ Correo <a href="mailto:gerardcarrizo1@gmail.com?subject=Laboral&body=Hola Gerard, te hablo para comentarte de ...">gerardcarrizo1@gmail.com</a>
+✉️ Correo gerardcarrizo1@gmail.com
 
-[![Linkedin](https://skillicons.dev/icons?i=gmail)](mailto:gerardcarrizo1@gmail.com?subject=Laboral&body=Hola Gerard, te hablo para comentarte de ...)
-gerardcarrizo1@gmail.com
+[![Gmail](https://skillicons.dev/icons?i=gmail)]([gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new))
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gerard-carrizo-508b16133/) Likedin
  
 <img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
