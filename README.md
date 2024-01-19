@@ -40,5 +40,5 @@ Soy-Gerardgfc@github
 
 ### 🧰 Frameworks y Librerias
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)(https://cdn-icons-png.flaticon.com/512/10260/10260914.png)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)https://cdn-icons-png.flaticon.com/512/10260/10260914.png
 
