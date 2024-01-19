@@ -17,28 +17,8 @@
 🤝 ¡Estoy emocionado por la oportunidad de conectar con profesionales apasionados del campo de la ciencia de datos! ¿Tienes un proyecto interesante en mente o consejos valiosos para compartir? ¡Hablemos!</i></p>
 
 ✉️ Correo <a href="mailto:gerardcarrizo1@gmail.com?subject=Laboral&body=Hola Gerard, te hablo para comentarte de ...">gerardcarrizo1@gmail.com</a>
-
-<p id="mensajeParaCopiar" style="cursor: pointer;">¡Haz clic aquí para copiar este mensaje!</p>
-
-<script>
-  document.getElementById('mensajeParaCopiar').addEventListener('click', function() {
-    // Crear un elemento de texto temporal
-    var elementoTemp = document.createElement('textarea');
-    // Establecer el valor del texto en formato Markdown
-    elementoTemp.value = '**Este es el mensaje que será copiado en Markdown.**';
-    // Agregar el elemento temporal al DOM
-    document.body.appendChild(elementoTemp);
-    // Seleccionar y copiar el contenido del elemento temporal
-    elementoTemp.select();
-    document.execCommand('copy');
-    // Eliminar el elemento temporal
-    document.body.removeChild(elementoTemp);
-
-    // Puedes mostrar alguna indicación de que el mensaje ha sido copiado
-    alert('Mensaje copiado al portapapeles: ' + elementoTemp.value);
-  });
-  </script>
-  
+ Linkedin <a href="https://www.linkedin.com/in/gerard-carrizo-508b16133/">Gerard Carrizo</a>
+ 
 <img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
 <hr>
 
