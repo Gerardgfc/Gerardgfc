@@ -80,6 +80,7 @@ Soy-Gerardgfc@github
 [<img alt="Windows" src="https://static-00.iconduck.com/assets.00/windows-azure-icon-512x511-boryz7kb.png" width="50" height="50">](https://example.com)
 [<img alt="Spotify" src="https://static-00.iconduck.com/assets.00/spotify-icon-512x512-l4zex9yc.png" width="50" height="50">](https://example.com)
 
+
 ## 📈​ GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Gerardgfc&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
