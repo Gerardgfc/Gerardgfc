@@ -1,1 +1,1 @@
-<img src="[enlace_del_gif](https://github.com/Gerardgfc/Gerardgfc/assets/90930270/17a20664-9eec-49e0-8eaa-9acb7ba7e6c7)https://github.com/Gerardgfc/Gerardgfc/assets/90930270/17a20664-9eec-49e0-8eaa-9acb7ba7e6c7" alt="Descripción del GIF" width="300" height="200">
+<img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/17a20664-9eec-49e0-8eaa-9acb7ba7e6c7" alt="Descripción del GIF" width="300" height="200">
