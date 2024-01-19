@@ -16,22 +16,24 @@
 
 🤝 ¡Estoy emocionado por la oportunidad de conectar con profesionales apasionados del campo de la ciencia de datos! ¿Tienes un proyecto interesante en mente o consejos valiosos para compartir? ¡Hablemos!</i></p>
 
-<div style="text-align:center;">
-  <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
+<div style="text-align: center;">
+  <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" style="vertical-align: middle;">
 </div>
+
 <hr>
 
+```
 Soy-Gerardgfc@github
 -------------------------
 🚀 Egresado de Soy Henrry en Data Science y aspirante a desarrollador de software.
 👥 Habilidades destacadas en resolución de problemas y trabajo colaborativo.
-⚙️ Apasionado por la codificación y autodidacta, me sumerjo en proyectos diarios para aplicar y mejorar mis habilidades.
+⚙️​ Apasionado por la codificación y autodidacta, me sumerjo en proyectos diarios para aplicar y mejorar mis habilidades.
 💡 Mi enfoque principal es el aprendizaje autodidacta. 
 🌱 Python y SQL son mis lenguajes principales.
 ✨ En constante aprendizaje, busco expandir mis conocimientos en áreas como Machine Learning.
 💻 Ansioso por enfrentar nuevos retos y aprender más cada día. ¡Emocionado por el futuro tecnológico!
+```
 <hr>
-
 
 ## 🛠️ Herramientas Favoritas
 
@@ -51,12 +53,12 @@ Soy-Gerardgfc@github
 ### 🗄️ Databases y Cloud Hosting
 
 [<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp&perline=4)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,aws,gcp)](https://skillicons.dev)
 
 ### 💻 Software y herramientas
 [<img alt="Google Colab" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,docker=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=4)](https://skillicons.dev)
 [<img alt="Google Sheets" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" width="50" height="50">](https://example.com)
 [<img alt="Jupyter" src="https://static-00.iconduck.com/assets.00/jupyter-icon-437x512-1al3l4x3.png" width="50" height="50">](https://example.com)
 
