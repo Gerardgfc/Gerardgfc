@@ -37,33 +37,34 @@ Soy-Gerardgfc@github
 
 ### 👨‍💻 Lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[<img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=html,css,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)]
+[<img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" width="50" height="50">]
+[![My Skills](https://skillicons.dev/icons?i=html,css,md)]
 
 ### 🧰 Frameworks y Librerias
 
-[<img alt="Pandas" src="https://static-00.iconduck.com/assets.00/pandas-icon-322x512-mc7j2kfi.png" width="50" height="50">](https://example.com)
-[<img alt="Numpy" src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-476x512-106d391z.png" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=fastapi,sklearn)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[<img alt="Pandas" src="https://static-00.iconduck.com/assets.00/pandas-icon-322x512-mc7j2kfi.png" width="50" height="50">]
+[<img alt="Numpy" src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-476x512-106d391z.png" width="50" height="50">]
+[![My Skills](https://skillicons.dev/icons?i=fastapi,sklearn)]
+[![My Skills](https://skillicons.dev/icons?i=django)]
 
 ### 🗄️ Databases y Cloud Hosting
 
-[<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,aws,gcp)](https://skillicons.dev)
+[<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">]
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,aws,gcp&perline=4)]
+[![My Skills](https://skillicons.dev/icons?i=postgres,aws,gcp)]
 
-### 💻 Software y herramientas
-[<img alt="Google Colab" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="50">](https://example.com)
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=4)](https://skillicons.dev)
-[<img alt="Google Sheets" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" width="50" height="50">](https://example.com)
-[<img alt="Jupyter" src="https://static-00.iconduck.com/assets.00/jupyter-icon-437x512-1al3l4x3.png" width="50" height="50">](https://example.com)
+### 💻 Software y herramientas &perline=3
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,docker&perline=4)]
+[<img alt="Google Colab" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="50">]
+[<img alt="Google Sheets" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" width="50" height="50">]
+[<img alt="Jupyter" src="https://static-00.iconduck.com/assets.00/jupyter-icon-437x512-1al3l4x3.png" width="50" height="50">]
 
 ### 👨🏽‍💻 Workspace
 
-[<img alt="Windows" src="https://static-00.iconduck.com/assets.00/windows-azure-icon-512x511-boryz7kb.png" width="50" height="50">](https://example.com)
-[<img alt="Spotify" src="https://static-00.iconduck.com/assets.00/spotify-icon-512x512-l4zex9yc.png" width="50" height="50">](https://example.com)
+[<img alt="Windows" src="https://static-00.iconduck.com/assets.00/windows-azure-icon-512x511-boryz7kb.png" width="50" height="50">]
+[<img alt="Spotify" src="https://static-00.iconduck.com/assets.00/spotify-icon-512x512-l4zex9yc.png" width="50" height="50">]
 
 ## 📈​ GitHub Stats
 
