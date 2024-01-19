@@ -53,6 +53,8 @@ Soy-Gerardgfc@github
 [<img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=html,css,md)](https://example.com)
 
+<hr>
+
 ### 🧰 Frameworks y Librerias
 
 [<img alt="Pandas" src="https://static-00.iconduck.com/assets.00/pandas-icon-322x512-mc7j2kfi.png" width="50" height="50">](https://example.com)
@@ -60,12 +62,16 @@ Soy-Gerardgfc@github
 [![My Skills](https://skillicons.dev/icons?i=fastapi,sklearn)](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://example.com)
 
+<hr>
+
 ### 🗄️ Databases y Cloud Hosting
 
 [<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,gcp)](https://example.com)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://example.com)
+
+<hr>
 
 ### 💻 Software y herramientas
 
@@ -79,9 +85,12 @@ Soy-Gerardgfc@github
 
 ### 👨🏽‍💻 Workspace
 
+<hr>
+
 [<img alt="Windows" src="https://static-00.iconduck.com/assets.00/windows-azure-icon-512x511-boryz7kb.png" width="50" height="50">](https://example.com)
 [<img alt="Spotify" src="https://static-00.iconduck.com/assets.00/spotify-icon-512x512-l4zex9yc.png" width="50" height="50">](https://example.com)
 
+<hr>
 
 ## 📈​ GitHub Stats
 
