@@ -16,7 +16,6 @@
 
 🤝 ¡Estoy emocionado por la oportunidad de conectar con profesionales apasionados del campo de la ciencia de datos! ¿Tienes un proyecto interesante en mente o consejos valiosos para compartir? ¡Hablemos!</i></p>
 
-✉️ Correo de contacto: gerardcarrizo1@gmail.com
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
@@ -26,6 +25,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
 </p>
+
+✉️ Correo de contacto: gerardcarrizo1@gmail.com
  
 <img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
 <hr>
