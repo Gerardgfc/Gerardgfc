@@ -18,8 +18,14 @@
 
 ✉️ Correo de contacto: gerardcarrizo1@gmail.com
 
-- [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gerard-carrizo-508b16133/)
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gerard-carrizo-508b16133/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+</p>
  
 <img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
 <hr>
