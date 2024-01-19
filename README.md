@@ -16,8 +16,8 @@
 
 🤝 ¡Estoy emocionado por la oportunidad de conectar con profesionales apasionados del campo de la ciencia de datos! ¿Tienes un proyecto interesante en mente o consejos valiosos para compartir? ¡Hablemos!</i></p>
 
-<img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
 
+<img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
 <hr>
 
 ```
@@ -53,7 +53,7 @@ Soy-Gerardgfc@github
 [<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,gcp)](https://example.com)
 
-[![My Skills](https://skillicons.dev/icons?i=awspostgres,aws,gcp)](https://example.com)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://example.com)
 
 ### 💻 Software y herramientas
 
