@@ -19,7 +19,7 @@
 ✉️ Correo de contacto: gerardcarrizo1@gmail.com
 
 <div align="center">
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)]([gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new))
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gerard-carrizo-508b16133/)
 </div>
  
