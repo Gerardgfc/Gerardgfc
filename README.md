@@ -53,7 +53,7 @@ Soy-Gerardgfc@github
 [<img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=html,css,md)](https://example.com)
 
-<hr>
+---
 
 ### 🧰 Frameworks y Librerias
 
