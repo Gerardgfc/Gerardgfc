@@ -16,8 +16,9 @@
 
 🤝 ¡Estoy emocionado por la oportunidad de conectar con profesionales apasionados del campo de la ciencia de datos! ¿Tienes un proyecto interesante en mente o consejos valiosos para compartir? ¡Hablemos!</i></p>
 
-✉️ Correo <a href="mailto:gerardcarrizo1@gmail.com?subject=Laboral&body=Hola Gerard, te hablo para comentarte de ...">gerardcarrizo1@gmail.com</a> 
-  <p id="mensajeParaCopiar" style="cursor: pointer;">¡Haz clic aquí para copiar este mensaje!</p>
+✉️ Correo <a href="mailto:gerardcarrizo1@gmail.com?subject=Laboral&body=Hola Gerard, te hablo para comentarte de ...">gerardcarrizo1@gmail.com</a>
+
+<p id="mensajeParaCopiar" style="cursor: pointer;">¡Haz clic aquí para copiar este mensaje!</p>
 
 <script>
   document.getElementById('mensajeParaCopiar').addEventListener('click', function() {
