@@ -21,13 +21,17 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
+  <a href="https://gerardgfc.github.io/">
+    <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/86375cea-5d37-4372-8083-a373ad875c7d" alt="Web">
+  </a>
   <a href="https://www.linkedin.com/in/gerard-carrizo-508b16133/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 ✉️ Correo de contacto: gerardcarrizo1@gmail.com
- 
+ ![web-link_3308395]()
+
 
 <hr>
 <img align="left" src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/8d15d59d-3bde-458a-b4b3-952e81190fc9" alt="pc_noche" width="320" />
