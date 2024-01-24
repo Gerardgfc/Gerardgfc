@@ -30,7 +30,6 @@
 </p>
 
 ✉️ Correo de contacto: gerardcarrizo1@gmail.com
- ![web-link_3308395]()
 
 
 <hr>
