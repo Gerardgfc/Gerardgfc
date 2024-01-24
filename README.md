@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/9c8ce5e9-5304-485a-a79e-d2d62653c48e" alt="Bienvenido!" width="300"/>
+<img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/9c8ce5e9-5304-485a-a79e-d2d62653c48e" alt="Bienvenido!" width="300">
 
 </div>
 
@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
   <a href="https://gerardgfc.github.io/">
-    <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/86375cea-5d37-4372-8083-a373ad875c7d" alt="Web">
+    <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/86375cea-5d37-4372-8083-a373ad875c7d" alt="Web" width="45" height="45">
   </a>
   <a href="https://www.linkedin.com/in/gerard-carrizo-508b16133/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
