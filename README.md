@@ -72,7 +72,7 @@ Soy-Gerardgfc@github
 [<img alt="Render" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,gcp)](https://example.com)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://example.com)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://example.com)
 
 <hr>
 
