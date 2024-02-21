@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 <h1> Hola <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/0aa58c7c-0067-48ec-80aa-3fdf380d4c5b" width="30px"> ¡Soy Gerard!</h1>
 </div>
 
