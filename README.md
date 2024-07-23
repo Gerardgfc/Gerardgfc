@@ -8,7 +8,7 @@
 
 </div>
 
-<p><i>🚀 ¡Bienvenido a mi perfil! Soy Gerard Carrizo, un apasionado del Data Science con un enfoque claro en la aplicación práctica de la ciencia de datos para resolver problemas del mundo real.
+<p><i>🚀 ¡Bienvenido a mi perfil! Soy Gerardo Carrizo, un apasionado del Data Science con un enfoque claro en la aplicación práctica de la ciencia de datos para resolver problemas del mundo real.
 
 💡 Aunque mi experiencia laboral es limitada, he invertido tiempo y esfuerzo en proyectos significativos durante mi formación académica. Estos proyectos no solo han consolidado mis habilidades técnicas, sino que también han demostrado mi capacidad para abordar desafíos y aprender de manera continua.
 
