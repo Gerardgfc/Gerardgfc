@@ -25,8 +25,9 @@
     <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/86375cea-5d37-4372-8083-a373ad875c7d" alt="Web" width="48" height="48">
   </a>
   <a href="https://www.linkedin.com/in/gerardo-carrizo/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" target="_blank" alt="LinkedIn">
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+</a>
+
 </p>
 
 ✉️ Correo de contacto: gerardcarrizo1@gmail.com
