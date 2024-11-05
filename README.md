@@ -24,7 +24,7 @@
   <a href="https://gerardgfc.github.io/">
     <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/86375cea-5d37-4372-8083-a373ad875c7d" alt="Web" width="48" height="48">
   </a>
-  <a href="https://www.linkedin.com/in/gerard-carrizo-508b16133/">
+  <a href="https://www.linkedin.com/in/gerard-carrizo/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
 </p>
