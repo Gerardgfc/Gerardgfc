@@ -61,7 +61,7 @@ Soy-Gerardgfc@github
 
 ### 🧰 Frameworks y Librerias
 
-[<img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" height="50">](https://example.com)
+[<img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="70" height="70">](https://example.com)
 [<img alt="Numpy" src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-476x512-106d391z.png" width="50" height="50">](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=fastapi,sklearn)](https://example.com)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://example.com)
