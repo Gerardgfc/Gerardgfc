@@ -30,7 +30,7 @@
 
 </p>
 
-✉️ Correo de contacto: gerardcarrizo1@gmail.com
+✉️ Correo de contacto: gerardcarrizo1@gmail.com 
 
 
 <hr>
