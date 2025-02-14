@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hola <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/0aa58c7c-0067-48ec-80aa-3fdf380d4c5b" width="30px"> ¡Soy Gerardo!</h1>
 </div>
-              
+               
 <div align="center" width="50">
 
 <img src="https://github.com/Gerardgfc/Gerardgfc/assets/90930270/9c8ce5e9-5304-485a-a79e-d2d62653c48e" alt="Bienvenido!" width="300">
